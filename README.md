@@ -19,7 +19,7 @@
 
     <main class="gallery-container">
         <div class="gallery-item">
-            <img src="images/trator-gps.jpg" alt="Trator com tecnologia GPS">
+            <img src="" alt="Trator com tecnologia GPS">
             <div class="description">
                 <h3>Agricultura de Precisão</h3>
                 <p>Tratores equipados com GPS otimizam o plantio e a colheita...</p>
